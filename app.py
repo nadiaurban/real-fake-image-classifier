@@ -57,12 +57,12 @@ with st.sidebar:
     """
     )
 
-    st.write("Class 1: Fake picture")
+    st.write("Class 1: Real picture")
     img1 = resize_image("example1.jpg", 300)   
     if img1:
         st.image(img1, caption="The training data: 4303 pictures") 
 
-    st.write("Cless2: real picture") 
+    st.write("Cless2: Fake picture") 
     img2 = resize_image("example2.jpg", 300)  
     if img2:
         st.image(img2, caption="The training data: 406 pictures")

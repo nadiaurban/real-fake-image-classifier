@@ -38,8 +38,8 @@ This app helps users identify whether an image is **authentic** or **AI-generate
 
 | Class | Image Preview     | Number of Training Images |
 |-------|--------------------|----------------------------|
-| Fake  | ![](example1.jpg) | 4,303 photos               |
-| Real  | ![](example2.jpg) | 406 photos                 |
+| Real  | ![](example1.jpg) | 4,303 photos               |
+| Fake  | ![](example2.jpg) | 406 photos                 |
 
 (*These preview images are displayed in the app sidebar.*)
 
